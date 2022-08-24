@@ -1,0 +1,41 @@
+/* 
+my style sheet 
+*/
+
+/********************************** TAG SELECTORS **************************************/
+body {
+    background-color:#F0F2B6;
+}
+
+hr {
+    border-color: #224B0C;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 20px;
+}
+
+img {
+    height: 300px;
+}
+
+h1 {
+    color: #AC4425;
+}
+
+p {
+    color: #224B0C;
+
+}
+
+/********************************* CLASS SELECTORS *************************************/ /* more spesfic the tags, less the ID's
+
+.class {
+
+} */
+
+/********************************** ID SELECTORS ***************************************/ /* you can only have one instance of ID's
+
+#ID {
+
+} */
